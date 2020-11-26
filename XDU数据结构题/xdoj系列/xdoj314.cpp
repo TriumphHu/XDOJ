@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-//�ݹ��ж��Ƿ�����������
+//递归判断是否有左右子树，这道题特别感谢銘松大佬帮我DEBUG！！！！
 int childLength(int n, int m, int len);
 int main()
 {
